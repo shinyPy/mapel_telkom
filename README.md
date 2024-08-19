@@ -18,7 +18,7 @@ Get packages
 ```
 composer update
 ```
-You can just use Github Desktop for this
+Or you can just use Github Desktop for cloning
 * Copy .env.example and rename it to .env and configure the setting to your liking.
 * Run this command to generate JWT Key
 ```
