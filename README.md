@@ -14,6 +14,10 @@ Back-End for [fe-mapel](https://github.com/Aedezz/fe-mapel)
 ```
 git clone https://github.com/shinyPy/mapel_telkom
 ```
+Get packages 
+```
+composer update
+```
 You can just use Github Desktop for this
 * Copy .env.example and rename it to .env and configure the setting to your liking.
 * Run this command to generate JWT Key
