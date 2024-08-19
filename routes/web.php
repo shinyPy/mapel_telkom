@@ -20,4 +20,6 @@ Route::middleware('JWTAuthentication')->group(function () {
     Route::get('/', function () {
         return view('welcome');
     });
+
+    /// test test asdasd
 });
