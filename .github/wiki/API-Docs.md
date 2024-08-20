@@ -3,7 +3,7 @@
 ### Base URL
 
 ```
-http://base135-url.com/api
+http://apan-rawr-url.com/api
 ```
 
 ### Headers
