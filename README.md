@@ -1,5 +1,4 @@
-# MAPEL-TELKOM
-MAPEL TELKOM
+# MAPEL-MANAGEMENT
 ## Description
 
 This API is part of the Mapel Telkom project, aimed at streamlining subjects management for educational purposes.
