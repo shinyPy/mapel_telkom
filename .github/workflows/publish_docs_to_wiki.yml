@@ -22,5 +22,5 @@ jobs:
         uses: nimblehq/publish-github-wiki-action@v1.0
         with:
           user_name: advensploit
-          user_email: frozzlegend@gmail.com
+          user_email: ${{ secrets.WIKI_EMAIL }}
           user_access_token: ${{ secrets.WIKI_ACTION_TOKEN }}
