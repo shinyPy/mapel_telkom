@@ -22,5 +22,5 @@ jobs:
         uses: nimblehq/publish-github-wiki-action@v1.0
         with:
           user_name: shiniya-bot
-          user_email: adveniscool@gmail.com
+          user_email: ${{ vars.WIKI_EMAIL }}          
           user_access_token: ${{ secrets.WIKI_ACTION_TOKEN }}
