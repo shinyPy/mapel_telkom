@@ -1,9 +1,8 @@
 # MAPEL-TELKOM
 MAPEL TELKOM
 ## Description
-Welcome to the Mapel Telkom API documentation! This API is designed to handle user authentication, including user registration and login, using JSON Web Tokens (JWT). It provides a secure and efficient way to manage user sessions and access control within the application.
 
-This API is part of the Mapel Telkom project, aimed at streamlining user management for educational purposes.
+This API is part of the Mapel Telkom project, aimed at streamlining subjects management for educational purposes.
 
 ## Target RESTFUL API:
  - [x] Login System (JWT Auth)
