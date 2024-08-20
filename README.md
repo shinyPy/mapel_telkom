@@ -32,5 +32,13 @@ Then run this command
 ```
 php artisan serve
 ```
+## Target RESTFUL API:
+ - [x] Login System (JWT Auth)
+ - [x] Middleware JWT
+ - [x] Register System (only for testing purposes)
+ - [x] Database Migrations Tables
+ - [ ] MapelController
+ - [ ] GuruController
+ - [ ] RiwayatController
 
 
