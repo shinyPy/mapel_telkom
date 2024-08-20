@@ -21,6 +21,6 @@ jobs:
       - name: Publish Github Wiki
         uses: nimblehq/publish-github-wiki-action@v1.0
         with:
-          user_name: advensploit
-          user_email: frozzlegend@gmail.com
+          user_name: shiniya-bot
+          user_email: adveniscool@gmail.com
           user_access_token: ${{ secrets.WIKI_ACTION_TOKEN }}
