@@ -3,7 +3,7 @@
 ### Base URL
 
 ```
-http://base5-url.com/api
+http://base55-url.com/api
 ```
 
 ### Headers
