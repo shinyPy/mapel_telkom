@@ -41,4 +41,5 @@ php artisan serve
  - [ ] GuruController
  - [ ] RiwayatController
 
+For more information see the [wiki](https://github.com/shinyPy/mapel_telkom/wiki)
 
