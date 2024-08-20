@@ -12,7 +12,7 @@ git clone https://github.com/shinyPy/mapel_telkom
 ```
 Get packages 
 ```
-composer update
+composer update/install
 ```
 Or you can just use Github Desktop for cloning
 * Copy .env.example and rename it to .env and configure the setting to your liking.

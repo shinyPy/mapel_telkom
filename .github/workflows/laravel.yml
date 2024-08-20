@@ -4,10 +4,12 @@ on:
   push:
     paths-ignore:
       - '.github/wiki/**'
+      - '.github/**'
       - 'README.md'
   pull_request:
     paths-ignore:
       - '.github/wiki/**'
+      - '.github/**'
       - 'README.md'
 
 jobs:
